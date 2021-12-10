@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/landingPage/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/landingPage/static/js/main.af7d626f.chunk.js",
+    "main.js.map": "/landingPage/static/js/main.af7d626f.chunk.js.map",
+    "runtime-main.js": "/landingPage/static/js/runtime-main.984b452e.js",
+    "runtime-main.js.map": "/landingPage/static/js/runtime-main.984b452e.js.map",
+    "static/js/2.ab0c77c7.chunk.js": "/landingPage/static/js/2.ab0c77c7.chunk.js",
+    "static/js/2.ab0c77c7.chunk.js.map": "/landingPage/static/js/2.ab0c77c7.chunk.js.map",
+    "index.html": "/landingPage/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/landingPage/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.ab0c77c7.chunk.js.LICENSE.txt": "/landingPage/static/js/2.ab0c77c7.chunk.js.LICENSE.txt",
+    "static/media/gift.3202d18d.jpg": "/landingPage/static/media/gift.3202d18d.jpg",
+    "static/media/header.d0564f1f.png": "/landingPage/static/media/header.d0564f1f.png",
+    "static/media/logo.6b96b566.jpg": "/landingPage/static/media/logo.6b96b566.jpg",
+    "static/media/viezh.e3cbe20c.png": "/landingPage/static/media/viezh.e3cbe20c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984b452e.js",
+    "static/js/2.ab0c77c7.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.af7d626f.chunk.js"
+  ]
+}
